@@ -13,6 +13,7 @@ This game is a stealth platformer, You must navigate one of the 2 levels which I
 - Up to Jump
 - Down to enter shadow mode
 - Shift to hide behind certain obstacles
+- Backspace to reset the game
 
 ### Shadow Mode
 - Up to shadow jump (can double jump out of shadow)
