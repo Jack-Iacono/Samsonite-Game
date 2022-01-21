@@ -8,5 +8,19 @@ This game is a stealth platformer, You must navigate one of the 2 levels which I
 
 # Features
 ## Controls
-- WASD controls
-- Down to 
+### Normal Mode
+- Arrow Key controls
+- Up to Jump
+- Down to enter shadow mode
+- Shift to hide behind certain obstacles
+
+### Shadow Mode
+- Up to shadow jump (can double jump out of shadow)
+- Down to emerge (doesn't make noise)
+- Space to create a portal (press again to warp back to previous portal)
+
+## Mechanics
+- Guard Vision Cones can detect you while you are not in shadow mode (Sorry that they go through walls, couldn't figure this out)
+- Light Kills you while in shadow mode
+- Certain actions produce noise which will alert nearby guards and make them turn towards the source of the noise
+- While in shadow mode, you can go through impossibly small gaps (This is the most obvious hint that I can given for the test level #1)
