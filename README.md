@@ -26,3 +26,6 @@ This game is a stealth platformer, You must navigate one of the 2 levels which I
 - Certain actions produce noise which will alert nearby guards and make them turn towards the source of the noise
 - While in shadow mode, you can go through impossibly small gaps (This is the most obvious hint that I can given for the test level #1)
 - Touch an enemy's back in order to kill them
+
+# Technical Talk
+This game stems from my love of the character Uncle Samsonite. The Uncle is a large creature with a seemingly endless bag of tricks, but his most noteworthy is his stealth and his love of dancing. I am not great at animating 
